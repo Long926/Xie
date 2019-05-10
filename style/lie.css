@@ -1,9 +1,39 @@
-main{border-top: 2px solid #000;}
-main .lie1{margin:20px 0;color: #999;font-size: 14px;}
-main .lie1 a:hover{color: #f00;}
-main #frame{overflow: hidden;border: solid 1px black;margin: 10px auto;width: 1080px;}
-main #frame .box{width: 270px;border: solid 2px black;box-sizing: border-box;text-align: center;float: left;}
-main #frame .box img{width: 40%;display: block;margin: 5px auto;}
-main #frame .box span{display: block;color: red;}
-main #frame .box p{height: 40px;overflow: hidden;font-size: 14px;line-height: 20px;}
-main #frame .box em{display: block;width: 120px;line-height: 22px;color: #fff;background: blue;margin: 5px auto;cursor: pointer;}
+main {
+  border-top: 2px solid #000; }
+  main .lie1 {
+    margin: 20px 0;
+    color: #999;
+    font-size: 14px; }
+    main .lie1 a:hover {
+      color: #f00; }
+  main #frame {
+    overflow: hidden;
+    border: solid 1px black;
+    margin: 10px auto;
+    width: 1080px; }
+    main #frame .box {
+      width: 270px;
+      border: solid 2px black;
+      box-sizing: border-box;
+      text-align: center;
+      float: left; }
+      main #frame .box img {
+        width: 40%;
+        display: block;
+        margin: 5px auto; }
+      main #frame .box span {
+        display: block;
+        color: red; }
+      main #frame .box p {
+        height: 40px;
+        overflow: hidden;
+        font-size: 14px;
+        line-height: 20px; }
+      main #frame .box em {
+        display: block;
+        width: 120px;
+        line-height: 22px;
+        color: #fff;
+        background: blue;
+        margin: 5px auto;
+        cursor: pointer; }

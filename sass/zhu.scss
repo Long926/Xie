@@ -1,0 +1,53 @@
+main{margin-top: 100px;
+    .main-left{float: left;}
+    .main-right{float: left;
+        h1{display: inline-block;font-size: 16px;color: #343434;line-height: 3em;}
+        h3{display: inline-block;padding-left: 30px;line-height: 3em;font-size: 14px;
+            a{color: #f00;}
+        }
+        form{margin-top:20xp;
+            .txt{display:block;border-radius:3px;border: 1px solid #eee;font-size:16px;width: 270px;height: 36px;text-indent: 16px;}
+            .mail{display:block;border-radius:3px;border: 1px solid #eee;font-size:16px;width: 270px;height: 36px;text-indent: 16px;}
+            .pass{display:block;border-radius:3px;border: 1px solid #eee;font-size:16px;width: 270px;height: 36px;text-indent: 16px;}
+            .pass2{display:block;border-radius:3px;border: 1px solid #eee;font-size:16px;width:270px;height: 36px;text-indent: 16px;}
+            span{display: block;height: 30px;color: #f00;font: 15px/2 "";text-align: center;}
+            .d1{margin-top: 20px;
+                .chck{border-radius: 3px;width: 16px;height: 16px;vertical-align: middle;}
+                label{font-size: 16px;color: #666;vertical-align: middle;
+                    a{color: #f00;}
+                }
+            }
+            .sub{display:block;border-radius:3px;width:270px;text-align:center;height:44px;line-height:44px;
+                color:#343434;font-size: 18px;background: #ffdd00;margin-top:20px;border: 1px solid #eee;cursor: pointer;
+                :hover{background: #e4a62b;}
+            }
+        }
+    }
+}
+
+
+
+
+
+
+// main{margin-top: 100px;}
+// main .main-left{float: left;}
+// main .main-right{float: left;}
+// main .main-right h1{display: inline-block;font-size: 16px;color: #343434;line-height: 3em;}
+// main .main-right h3{display: inline-block;padding-left: 30px;line-height: 3em;font-size: 14px}
+// main .main-right h3 a{color: #f00;}
+// main .main-right form{margin-top:20xp;}
+// main .main-right form .txt{display:block;border-radius:3px;border: 1px solid #eee;font-size:16px;width: 270px;height: 36px;text-indent: 16px;}
+// main .main-right form .mail{display:block;border-radius:3px;border: 1px solid #eee;font-size:16px;width: 270px;height: 36px;text-indent: 16px;}
+// main .main-right form .pass{display:block;border-radius:3px;border: 1px solid #eee;font-size:16px;width: 270px;height: 36px;text-indent: 16px;
+//     }
+// main .main-right form .pass2{display:block;border-radius:3px;border: 1px solid #eee;font-size:16px;width:270px;height: 36px;text-indent: 16px;
+//     }
+// main .main-right form span{display: block;height: 30px;color: #f00;font: 15px/2 "";text-align: center;}
+// main .main-right form .d1{margin-top: 20px;}
+// main .main-right form .d1 .chck{border-radius: 3px;width: 16px;height: 16px;vertical-align: middle;}
+// main .main-right form .d1 label{font-size: 16px;color: #666;vertical-align: middle;}
+// main .main-right form .d1 label a{color: #f00;}
+// main .main-right form .sub{display:block;border-radius:3px;width:270px;text-align:center;height:44px;line-height:44px;
+//     color:#343434;font-size: 18px;background: #ffdd00;margin-top:20px;border: 1px solid #eee;cursor: pointer;}
+// main .main-right form .sub:hover{background: #e4a62b;}
