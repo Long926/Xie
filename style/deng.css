@@ -1,0 +1,24 @@
+
+main{margin-top: 100px;}
+main .main-left{float: left;}
+main .main-right{float: left;margin:0 0 20px 40px;}
+main .main-right h2{font-size: 20px;color: #343434;line-height: 3em;}
+main .main-right .txt{display:block;border-radius: 3px;border: 1px solid #eee;font-size: 16px;width: 270px;height: 36px;text-indent: 16px;}
+main .main-right .pass{display:block;border-radius: 3px;border: 1px solid #eee;font-size: 16px;width: 270px;height: 36px;text-indent: 16px;
+    margin-top:20px;}
+main .main-right .sub{display:block;border-radius:3px;width:270px;text-align:center;height:44px;line-height:44px;
+    color:#343434;font-size: 18px;background: #ffdd00;margin-top:20px;border: 1px solid #eee;cursor: pointer;}
+main .main-right .sub:hover{background: #e4a62b;}
+main .main-right #ming{display: block;font: 15px/2 "";color: #f00;height: 30px;}    
+main .main-right .s1{margin-top:10px;}
+main .main-right .s1 .chck{border-radius: 3px;vertical-align: middle;width: 16px;height: 16px;}
+main .main-right .s1 label{font-size: 14px;color: #666;vertical-align: middle;}
+main .main-right .s1  span{padding-left:20px;vertical-align: middle;}
+main .main-right .s1  span a{color: #666;font-size: 14px;}
+main .main-right .s1  span .s2{color: #f00;}
+main .main-right .s1  span .s3:hover{color: #ffdd00;}
+main .main-right a{font-size: 14px;color: #666;}
+main .main-right a.s5{width: 130px;height: 40px;display: inline-block;}
+main .main-right a.s4{padding-left: 40px;width: 130px;height: 40px;display: inline-block;}
+main .main-right a.s5:hover{font-size: 20px;color: #000;}
+main .main-right a.s4:hover{font-size: 20px;color: #000;}

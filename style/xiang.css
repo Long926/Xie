@@ -1,0 +1,32 @@
+main{border-top: 2px solid #000;}
+main .xiang1{margin:20px 0;color: #999;font-size: 14px;}
+main .xiang1 a:hover{color: #f00;}
+
+main .xiang2 .shuo-left{float: left;margin: 20px 0;}
+main .xiang2 .shuo-left img{border: 1px solid #999;}
+main .xiang2 .shuo-right{float: left;margin: 10px 0 0 30px;}
+main .xiang2 .shuo-right h1{font-size: 20px;line-height: 36px;}
+main .xiang2 .shuo-right span{font-size: 13px;margin: 10px 0;display: inline-block;}
+main .xiang2 .shuo-right p{font-size: 13px;}
+main .xiang2 .shuo-right p span{color: #ef2323;font-size: 24px;display: inline-block;}
+main .xiang2 .shuo-right .v1{font-size: 13px;display: inline-block;}
+/* main .xiang2 .shuo-right .gomai{} */
+main .xiang2 .shuo-right .gomai span{display: inline-block;width: 133px;height: 48px;background: #e4393c;font-size: 16px;line-height: 48px;
+    text-align: center;color: #fff;border-radius: 3px;cursor: pointer;}
+main .xiang2 .shuo-right .gomai span:first-child:hover{background: #ff0;color: black;}
+main .xiang2 .shuo-right .gomai span:last-child{background: #fff;color: #f00;border: 1px solid #e4393c;}
+main .xiang2 .shuo-right .gomai span:last-child:hover{background:#f00;color: #fff;}
+
+main .xiang3{margin-left: 100px;border: 1px solid rgb(241, 230, 230);border-top: 2px solid rgb(241, 230, 230);}
+/* main .xiang3 .xixing{} */
+main .xiang3 .xixing a{display:inline-block;width: 150px;height: 30px;font: 15px/2 "";text-align: center}
+main .xiang3 .xixing a:first-child{color: #333;background: #ff0;}
+main .xiang3 span{display:block;margin:10px 20px;}
+/* main .xiang3 .zhaopi{} */
+main .xiang3 .zhaopi img{display: block;padding: 10px 60px;}
+main .xiang3 .gowu{margin: 20px 0;}
+main .xiang3 .gowu h2{height: 30px;font: 16px/2 "";padding-left: 100px;}
+main .xiang3 .gowu img{display: block;padding-left: 80px}
+main .xiang3 dl{padding:0 100px 30px 100px;}
+main .xiang3 dl dt{border-top:1px dotted #999;padding: 5px 0;font-size: 20px;color: #000}
+main .xiang3 dl dd{padding: 5px 0; color: #999;font-size: 14px;}
